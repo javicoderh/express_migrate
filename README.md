@@ -7,5 +7,7 @@
 ## new model named "heroe" created in "postgres" data base by 
 #### npx sequelize-cli model:generate --name heroe --attributes Name:string,nickname:string
 
-![imagen](https://user-images.githubusercontent.com/105983754/203405061-a6884aa6-62ff-4a4f-bd9e-5ef193343175.png)
+![imagen](https://user-images.githubusercontent.com/105983754/203406001-1434bc97-697b-4634-9fdb-0681d6fc92d2.png)
+
+
 
